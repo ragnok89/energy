@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DMAR certificados Energéticos",
-    "currentPage": "index.html",
+    "currentPage": "orcamento.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -198,7 +198,7 @@
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "2",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "showMeta": false
           },
           "title": "O PORQUÊ DE NECESSITAR<br>DE UM CERTIFICADO ENERGÉTICO",
@@ -209,18 +209,18 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-i",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "4",
-            "bgColor": "#fff"
-          },
-          "text": "<p>A certificação energética vem na necessidade de baixar as emissões de CO2 dos edifícios.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">O CO2 é um dos fatores responsáveis pelo aquecimento global e pelas alterações climáticas. Para reduzir esse aquecimento a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">União Europeia emitiu normas especificas para os seus estados membros, no sentido de implementarem a certificação energética de Edifícios.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Em Portugal, é uma obrigação do proprietário de um determinado edifício, ter o certificado energético do mesmo nas seguintes situações:</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><ul><li>À data da venda, arrendamento ou locação financeira do imóvel;</li><li>À data do anuncio de colocação no mercado imobiliários, para os fins previstos anteriormente.</li></ul><p><br></p><p>Para mais informações consultar o &nbsp;<b><a href=\"http://dre.pt/pdf1s/2013/08/15900/0498805005.pdf\" target=\"_blank\" class=\"text-warning\"><b>Decreto-Lei n.º 118/2013</b></a>&nbsp;</b>ou a<b> &nbsp;</b><a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:153:0013:0035:PT:PDF\" target=\"_blank\" class=\"text-warning\" style=\"font-weight: bold;\">Diretiva n.º 2010/31/UE</a>.</p>",
           "_styles": {
             "UL": {
               "text-align": "left"
             }
-          }
+          },
+          "_anchor": "content1-i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "4",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>A certificação energética vem na necessidade de baixar as emissões de CO2 dos edifícios.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">O CO2 é um dos fatores responsáveis pelo aquecimento global e pelas alterações climáticas. Para reduzir esse aquecimento a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">União Europeia emitiu normas especificas para os seus estados membros, no sentido de implementarem a certificação energética de Edifícios.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Em Portugal, é uma obrigação do proprietário de um determinado edifício, ter o certificado energético do mesmo nas seguintes situações:</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><ul><li>À data da venda, arrendamento ou locação financeira do imóvel;</li><li>À data do anuncio de colocação no mercado imobiliários, para os fins previstos anteriormente.</li></ul><p><br></p><p>Para mais informações consultar o &nbsp;<b><a href=\"http://dre.pt/pdf1s/2013/08/15900/0498805005.pdf\" target=\"_blank\" class=\"text-warning\"><b>Decreto-Lei n.º 118/2013</b></a>&nbsp;</b>ou a<b> &nbsp;</b><a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:153:0013:0035:PT:PDF\" target=\"_blank\" class=\"text-warning\" style=\"font-weight: bold;\">Diretiva n.º 2010/31/UE</a>.</p>"
         },
         {
           "_tags": [
