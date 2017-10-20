@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DMAR certificados Energéticos",
-    "currentPage": "orcamento.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
         "isRtl": false
       }
     },
-    "favicon": "@PROJECT_PATH@/assets/images/teste-logo-small-128x1271.png",
+    "favicon": "@PROJECT_PATH@/assets/images/teste-logo-small-128x1270.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
@@ -178,11 +178,11 @@
           "_name": "buttons1",
           "_anchor": "buttons1-6",
           "_params": {
-            "paddingTop": "7",
-            "paddingBottom": "7",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">AGENDAR CERTIFICADO</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">PEDIR ORÇAMENTO</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"orcamento.html\" data-toolbar=\"-mbrBtnMove\">PEDIR ORÇAMENTO</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"agendar.html\" data-toolbar=\"-mbrBtnMove\">AGENDAR CERTIFICADO</a>"
         },
         {
           "_styles": {
@@ -223,7 +223,7 @@
             "paddingBottom": "4",
             "bgColor": "#efefef"
           },
-          "text": "<p>A certificação energética vem na necessidade de baixar as emissões de CO2 dos edifícios.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">O CO2 é um dos fatores responsáveis pelo aquecimento global e pelas alterações climáticas. Para reduzir esse aquecimento a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">União Europeia emitiu normas especificas para os seus estados membros, no sentido de implementarem a certificação energética de Edifícios.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Em Portugal, é uma obrigação do proprietário de um determinado edifício, ter o certificado energético do mesmo nas seguintes situações:</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><ul><li>À data da venda, arrendamento ou locação financeira do imóvel;</li><li>À data do anuncio de colocação no mercado imobiliários, para os fins previstos anteriormente.</li></ul><p><br></p><p>Para mais informações consultar o &nbsp;<b><a href=\"http://dre.pt/pdf1s/2013/08/15900/0498805005.pdf\" target=\"_blank\" class=\"text-warning\"><b>Decreto-Lei n.º 118/2013</b></a>&nbsp;</b>ou a<b> &nbsp;</b><a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:153:0013:0035:PT:PDF\" target=\"_blank\" class=\"text-warning\" style=\"font-weight: bold;\">Diretiva n.º 2010/31/UE</a>.</p>"
+          "text": "<p>A certificação energética vem na necessidade de baixar as emissões de CO2 dos edifícios.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">O CO2 é um dos fatores responsáveis pelo aquecimento global e pelas alterações climáticas. Para reduzir esses efeitos a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">União Europeia emitiu normas especificas para os seus estados membros, no sentido de implementarem a certificação energética de Edifícios.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Em Portugal, é uma obrigação do proprietário de um determinado edifício, ter o certificado energético do mesmo nas seguintes situações:</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><ul><li>À data da venda, arrendamento ou locação financeira do imóvel;</li><li>À data do anuncio de colocação no mercado imobiliários, para os fins previstos anteriormente.</li></ul><p><br></p><p>Para mais informações consultar o &nbsp;<b><a href=\"http://dre.pt/pdf1s/2013/08/15900/0498805005.pdf\" target=\"_blank\" class=\"text-warning\"><b>Decreto-Lei n.º 118/2013</b></a>&nbsp;</b>ou a<b> &nbsp;</b><a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:153:0013:0035:PT:PDF\" target=\"_blank\" class=\"text-warning\" style=\"font-weight: bold;\">Diretiva n.º 2010/31/UE</a>.</p>"
         },
         {
           "_tags": [
@@ -232,11 +232,11 @@
           "_name": "buttons1",
           "_anchor": "buttons1-l",
           "_params": {
-            "paddingTop": "7",
-            "paddingBottom": "7",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"agendar.html\" data-toolbar=\"-mbrBtnMove\">AGENDAR CERTIFICADO</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"orcamento.html\" data-toolbar=\"-mbrBtnMove\">PEDIR ORÇAMENTO</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"orcamento.html\" data-toolbar=\"-mbrBtnMove\">PEDIR ORÇAMENTO</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"agendar.html\" data-toolbar=\"-mbrBtnMove\">AGENDAR CERTIFICADO</a>"
         },
         {
           "_tags": [
