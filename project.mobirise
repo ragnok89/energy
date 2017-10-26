@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DMAR certificados Energéticos",
-    "currentPage": "index.html",
+    "currentPage": "agendar.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -684,16 +684,16 @@
           "_name": "deltapieditor",
           "_anchor": "deltapieditor-11",
           "_params": {
-            "_customHTML": "<iframe src=\"http://www.dmar-imobiliaria.pt/agendar-certificado/\" name=\"frame1\" scrolling=\"no\" frameborder=\"no\" align=\"center\" height = \"800px\" width = \"1100px\">\n</iframe>",
+            "_customHTML": "<iframe src=\"http://www.dmar-imobiliaria.pt/agendar-certificado/\" name=\"frame1\" scrolling=\"no\" frameborder=\"no\" align=\"center\" height = \"1000px\" width = \"100%\">\n</iframe>",
             "_customCSS": "",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/7628x1080-2-2000x1139.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/7628-nt-2000x1600.png",
             "bgColor": "#282828",
             "bgColorRadio": false
           },
           "_customCSS": "",
-          "_customHTML": "<iframe src=\"http://www.dmar-imobiliaria.pt/agendar-certificado/\" name=\"frame1\" scrolling=\"no\" frameborder=\"no\" align=\"center\" height = \"800px\" width = \"1100px\">\n</iframe>"
+          "_customHTML": "<iframe src=\"http://www.dmar-imobiliaria.pt/agendar-certificado/\" name=\"frame1\" scrolling=\"no\" frameborder=\"no\" align=\"center\" height = \"1000px\" width = \"100%\">\n</iframe>"
         },
         {
           "_tags": [
