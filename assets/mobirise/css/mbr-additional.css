@@ -490,6 +490,9 @@ h6,
   text-align: left;
 }
 
+#header1-g .mbr-section-title {
+  font-size: 60px;
+}
 #menu-a .hide-buttons .nav-btn {
   display: none !important;
 }
