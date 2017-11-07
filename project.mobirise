@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DMAR certificados Energéticos",
-    "currentPage": "agendar.html",
+    "currentPage": "orcamento.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
         "isRtl": false
       }
     },
-    "favicon": "@PROJECT_PATH@/assets/images/teste-logo-small-128x1270.png",
+    "favicon": "@PROJECT_PATH@/assets/images/teste-logo-small-128x1271.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
