@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DMAR certificados Energéticos",
-    "currentPage": "orcamento.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,10 +21,10 @@
         "isRtl": false
       }
     },
-    "favicon": "@PROJECT_PATH@/assets/images/teste-logo-small-128x1271.png",
+    "favicon": "@PROJECT_PATH@/assets/images/teste-logo-small-128x1270.png",
     "noImageResize": "",
     "cookiesAlert": "",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-96179399-6\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-96179399-6');\r\n</script>\r\n",
     "versionFirst": "3.12.1",
     "uniqCompNum": 40,
     "versionPublish": "3.12.1",
